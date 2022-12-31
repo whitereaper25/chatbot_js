@@ -2,6 +2,10 @@ function talk() {
     var know = {
         "hi":"hello sir how can i help you?",
         "are you a Robot": "yes i'am",
+        "who made you?" : "the boss: vp,yogi,surya,veks",
+        "which languages can you speak" : "i speak eng and made of java language",
+        "do you like people" : " yeah, they made me!",
+        
         "what is your name" : "they did't name me :)",
         "who are you": "Hello, AICTE doubts clearing bot",
         "how are you": "Good :)",
@@ -17,7 +21,7 @@ function talk() {
         document.getElementById("chatLog").innerHTML = know[user] + "<br>";
     } else {
         document.getElementById("chatLog").innerHTML =
-            "Sorry,I didn't understand <br>";
+            "Sorry,I didn't understand the qn :( <br>";
     }
 }
 
