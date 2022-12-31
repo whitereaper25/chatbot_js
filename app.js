@@ -5,7 +5,7 @@ function talk() {
         "who made you?" : "the boss: vp,yogi,surya,veks",
         "which languages can you speak" : "i speak eng and made of java language",
         "do you like people" : " yeah, they made me!",
-        
+        "Do you get smarter" : "the more you ask, the more i get smarter",
         "what is your name" : "they did't name me :)",
         "who are you": "Hello, AICTE doubts clearing bot",
         "how are you": "Good :)",
